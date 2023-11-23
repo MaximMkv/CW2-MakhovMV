@@ -24,7 +24,7 @@ end
 
 
 class Car
-  include Printable # Викоритсання у класі Car
+  include Printable # Використання у класі Car
 
   attr_accessor :make, :model, :year
 
